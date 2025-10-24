@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Realme C55",
+      "price": "10500",
+      "category": "mobiles",
+      "id": 1
+    },
+    {
+      "name": "Acer",
+      "price": "59000",
+      "category": "laptops",
+      "id": 2
+    },
+    {
+      "name": "MI",
+      "price": "10599",
+      "category": "tv",
+      "id": 3
+    },
+    {
+      "name": "Vivo v15",
+      "price": "8000",
+      "category": "mobiles",
+      "id": 4
+    },
+    {
+      "name": "Samsung j2",
+      "price": "5000",
+      "category": "mobiles",
+      "id": 5
+    },
+    {
+      "name": "Lenovo",
+      "price": "13200",
+      "category": "laptops",
+      "id": 6
+    }
+  ]
+}
